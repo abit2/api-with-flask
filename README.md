@@ -1,5 +1,5 @@
 # api-with-flask
-trying out flask to create a basic api
+Implementation of some api with flask for a different Project.
 
 chomd a+x app.py
 
